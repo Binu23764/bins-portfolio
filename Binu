@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bins Abraham - Design Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      padding: 1rem;
+      background: #34495e;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .photo {
+      text-align: center;
+    }
+    .photo img {
+      border-radius: 10px;
+      width: 150px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #2c3e50;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bins Abraham</h1>
+    <p>Aspiring Designer | Cricket Lover | Creative Mind</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <div class="photo">
+      <img src="e5ae6062-bd0c-4fb1-8eaf-7ffe03fdee36.png" alt="Bins Abraham" />
+    </div>
+    <h2>About Me</h2>
+    <p>Hi, I'm Bins Abraham. I recently completed my Plus Two exams and am now awaiting the results. I'm originally from Hyderabad, and my mother tongue is Malayalam.</p>
+    <p>In my family, we are five members: my papa, mummy, two sisters, and myself.</p>
+    <p>My hobbies include playing cricket — it's not just a hobby but something I deeply enjoy.</p>
+    <p>Now, I'm excited to take the next big step in my journey: pursuing a course in <strong>Bachelor of Design (B.Des)</strong>. I'm eager to explore my creativity, learn new skills, and build a strong foundation for a future in design.</p>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <p>Coming soon! This is where I will showcase my sketches, digital designs, and creative projects.</p>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <ul>
+      <li><strong>Education:</strong> Completed Plus Two (Awaiting Results)</li>
+      <li><strong>Skills:</strong> Drawing, Creativity, Time Management, Communication</li>
+      <li><strong>Languages:</strong> Malayalam, English, Hindi</li>
+      <li><strong>Hobbies:</strong> Cricket, Designing</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: bins.abraham@email.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Location: Hyderabad, India</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bins Abraham. All rights reserved.</p>
+  </footer>
+</body>
+</html>
